@@ -12,4 +12,7 @@
 
 [![Cloud9June's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloud9June&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/Cloud9June/github-readme-stats)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fir1love)](https://solved.ac/fir1love)
+
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCloud9June&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=JUNE's%20VISIT&edge_flat=false)](https://github.com/Cloud9June)
