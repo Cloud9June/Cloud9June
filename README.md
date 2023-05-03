@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20June's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-[![Cloud9June's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=I'm...)](https://velog.io/@Cloud9June)
+[![Cloud9June's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=I'm...)](https://velog.io/@)
 
 <img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=apple&logoColor=white"><img src="https://img.shields.io/badge/applemusic-FA243C?style=for-the-badge&logo=applemusic&logoColor=white"><img src="https://img.shields.io/badge/applepay-000000?style=for-the-badge&logo=applepay&logoColor=white"><img src="https://img.shields.io/badge/appletv-000000?style=for-the-badge&logo=appletv&logoColor=white"><img src="https://img.shields.io/badge/applearcade-000000?style=for-the-badge&logo=applearcade&logoColor=white"><img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/windows11-0078D4?style=for-the-badge&logo=windows11&logoColor=white">
 
